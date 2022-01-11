@@ -7,7 +7,7 @@ from datetime import datetime , timedelta
 
 GUI = Tk()
 GUI.geometry('600x900')
-GUI.title('Software by JJPP')
+GUI.title('Software by JJPP242526')
 
 file = PhotoImage(file='dur.png')
 IMG = Label(GUI,image=file,text='')
